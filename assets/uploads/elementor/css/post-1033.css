@@ -1,0 +1,38 @@
+.elementor-1033 .elementor-element.elementor-element-b91a455{--display:flex;--padding-top:16px;--padding-bottom:16px;--padding-left:8px;--padding-right:8px;}.elementor-1033 .elementor-element.elementor-element-11a2667{--display:flex;--min-height:clamp(27.5rem, 18.6957rem + 39.1304vw, 50rem);--justify-content:flex-end;--border-radius:16px 16px 16px 16px;}.elementor-1033 .elementor-element.elementor-element-11a2667:not(.elementor-motion-effects-element-type-background), .elementor-1033 .elementor-element.elementor-element-11a2667 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-1033 .elementor-element.elementor-element-0a64138{--display:flex;--margin-top:-50px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:16px;--padding-right:16px;}.elementor-1033 .elementor-element.elementor-element-8643f0a{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;border-style:solid;--border-style:solid;border-width:1px 1px 1px 1px;--border-top-width:1px;--border-right-width:1px;--border-bottom-width:1px;--border-left-width:1px;border-color:var( --e-global-color-d531e65 );--border-color:var( --e-global-color-d531e65 );--border-radius:16px 16px 16px 16px;}.elementor-1033 .elementor-element.elementor-element-8643f0a.e-con{--align-self:flex-start;}.elementor-1033 .elementor-element.elementor-element-4a7ae87{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--padding-top:48px;--padding-bottom:100px;--padding-left:16px;--padding-right:16px;}.elementor-widget-heading .elementor-heading-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );line-height:var( --e-global-typography-primary-line-height );color:var( --e-global-color-primary );}.elementor-1033 .elementor-element.elementor-element-ef8a3bb .elementor-heading-title{font-family:var( --e-global-typography-dcb2c42-font-family ), Sans-serif;font-size:var( --e-global-typography-dcb2c42-font-size );font-weight:var( --e-global-typography-dcb2c42-font-weight );line-height:var( --e-global-typography-dcb2c42-line-height );color:var( --e-global-color-accent );}.elementor-widget-theme-post-content{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );line-height:var( --e-global-typography-text-line-height );}@media(min-width:768px){.elementor-1033 .elementor-element.elementor-element-b91a455{--content-width:1440px;}.elementor-1033 .elementor-element.elementor-element-8643f0a{--width:auto;}.elementor-1033 .elementor-element.elementor-element-4a7ae87{--width:1312px;}}@media(max-width:1024px){.elementor-1033 .elementor-element.elementor-element-0a64138{--margin-top:-40px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-widget-heading .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}.elementor-1033 .elementor-element.elementor-element-ef8a3bb .elementor-heading-title{font-size:var( --e-global-typography-dcb2c42-font-size );line-height:var( --e-global-typography-dcb2c42-line-height );}.elementor-widget-theme-post-content{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}}@media(max-width:767px){.elementor-1033 .elementor-element.elementor-element-0a64138{--margin-top:-35px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;}.elementor-1033 .elementor-element.elementor-element-8643f0a{--width:auto;--flex-wrap:nowrap;}.elementor-widget-heading .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}.elementor-1033 .elementor-element.elementor-element-ef8a3bb .elementor-heading-title{font-size:var( --e-global-typography-dcb2c42-font-size );line-height:var( --e-global-typography-dcb2c42-line-height );}.elementor-widget-theme-post-content{font-size:var( --e-global-typography-text-font-size );line-height:var( --e-global-typography-text-line-height );}}/* Start custom CSS for container, class: .elementor-element-11a2667 */.elementor-1033 .elementor-element.elementor-element-11a2667 {
+    clip-path: url(#notchClip);
+}/* End custom CSS */
+/* Start custom CSS for theme-post-content, class: .elementor-element-2ad37d1 */.elementor-1033 .elementor-element.elementor-element-2ad37d1 h2,
+.elementor-1033 .elementor-element.elementor-element-2ad37d1 h3{
+    font-family: var(--e-global-typography-dcb2c42-font-family), Sans-serif;
+    font-size: var(--e-global-typography-dcb2c42-font-size);
+    font-weight: var(--e-global-typography-dcb2c42-font-weight);
+    line-height: var(--e-global-typography-dcb2c42-line-height);
+    color: var(--e-global-color-accent);
+    padding-top: clamp(3rem, 1.7283rem + 5.6522vw, 6.25rem);
+}
+
+
+.elementor-1033 .elementor-element.elementor-element-2ad37d1 h4 {
+    font-family: var(--e-global-typography-6257229-font-family), Sans-serif;
+    font-size: var(--e-global-typography-6257229-font-size);
+    font-weight: var(--e-global-typography-6257229-font-weight);
+    line-height: var(--e-global-typography-6257229-line-height);
+    color: var(--e-global-color-accent);
+    padding-top: clamp(1.5rem, 1.1087rem + 1.7391vw, 2.5rem);
+    margin-bottom: -16px;
+}
+
+.elementor-1033 .elementor-element.elementor-element-2ad37d1 h5,
+.elementor-1033 .elementor-element.elementor-element-2ad37d1 h6 {
+    font-family: var(--e-global-typography-accent-font-family), Sans-serif;
+    font-size: var(--e-global-typography-accent-font-size);
+    font-weight: var(--e-global-typography-accent-font-weight);
+    line-height: var(--e-global-typography-accent-line-height);
+    color: var(--e-global-color-accent);
+    padding-top: 16px;
+}
+
+
+.elementor-1033 .elementor-element.elementor-element-2ad37d1 p {
+    padding-top: clamp(1.5rem, 1.1087rem + 1.7391vw, 2.5rem);
+}/* End custom CSS */
